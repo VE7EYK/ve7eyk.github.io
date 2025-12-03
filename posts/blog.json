@@ -1,0 +1,12 @@
+[
+  {
+    "title": "My First Test Blog Post",
+    "file": "post1.md",
+    "date": "2025-01-01"
+  },
+  {
+    "title": "APRS Repeater Updates",
+    "file": "post2.md",
+    "date": "2025-02-01"
+  }
+]
